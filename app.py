@@ -1,6 +1,7 @@
-from optparse import Option
 import streamlit as st
 import pickle
+import sklearn
+
 
 
 st.title("🏠 House Price Prediction Web App ")
