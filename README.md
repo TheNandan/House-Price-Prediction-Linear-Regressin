@@ -12,12 +12,13 @@ Regression is **a technique for investigating the relationship between independ
 
 Linear Regression is **a machine learning algorithm based on supervised learning**. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting
 
-![](C:\Users\Nandan%20Srinivas\Documents\ShareX\Screenshots\2022-12\linear.gif)
+
+![linear](https://user-images.githubusercontent.com/105147460/206854899-e75ec2a1-bca8-46ca-9dd2-1b9601826104.gif)
 
 # Multi-Linear Regression
 
 Multiple linear regression is **a statistical technique that uses multiple linear regression to model more complex relationships between two or more independent variables and one dependent variable**
+![multi-linear](https://user-images.githubusercontent.com/105147460/206855467-6b81f9fa-c9b5-43b3-a465-02a2638c0a4e.gif)
 
-![](C:\Users\Nandan%20Srinivas\Documents\ShareX\Screenshots\2022-12\multi-linear.gif)
 
 # Happy coding .....
