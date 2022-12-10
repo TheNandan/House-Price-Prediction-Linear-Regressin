@@ -2,7 +2,7 @@
 
 using linear and multi linear regression machine learning algorithum
 
-# [DEMO](https://thenandan-house-price-prediction-machine-learning-mo-app-4zfbo7.streamlit.app/)
+# [ TRY DEMO ](https://thenandan-house-price-prediction-machine-learning-mo-app-4zfbo7.streamlit.app/)
 
 # Regression
 
