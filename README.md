@@ -21,6 +21,50 @@ Multiple linear regression is **a statistical technique that uses multiple line
 ![multi-linear](https://user-images.githubusercontent.com/105147460/206855467-6b81f9fa-c9b5-43b3-a465-02a2638c0a4e.gif)
 
 
+# Setup & Installation
+
+# pre-requisite
+
+### python3 <br>
+<br>
+
+# Project Setup
+
+```
+cd Desktop
+```
+```
+git clone https://github.com/TheNandan/House-Price-Prediction-Machine-Learning-Model.git
+```
+```
+cd House-Price-Prediction-Machine-Learning-Model
+```
+
+# Installation
+
+#### open the terminal inside project folder and type
+
+```
+pip install -r requirements.txt
+```
+
+# or <br>
+<br>
+
+### if above does not works try below
+```
+pip install streamlit
+```
+```
+pip install -U scikit-learn
+```
+after installing these run this command 
+```
+streamlit run app.py
+```
+
+
+
 # {
 # Happy coding .....
 # }
